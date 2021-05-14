@@ -1,3 +1,3 @@
-# pythonTest
-## teaching myself python
-1. starting off with git work
+# PythonTest
+## Teaching myself python
+1. Starting off with git work
